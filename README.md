@@ -1,2 +1,2 @@
 # conda-enviroments
-Storage for conda environments.
+This is a repository for storing and sharing conda environments which we frequenctly use.
